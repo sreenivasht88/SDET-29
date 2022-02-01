@@ -2,7 +2,7 @@ package comcastSDET29;
 
 import org.testng.annotations.Test;
 
-public class Demo {
+public class DemoTest {
 
 	@Test
 	public void demo() {
@@ -11,8 +11,6 @@ public class Demo {
 		System.out.println("helloooooooo");
 		System.out.println("conflict");
 		System.out.println("conflict newwwwwww");
-
-		
-		
+			
 	}
 }
